@@ -2,12 +2,11 @@
 title: The PLUTo-Project
 email: rcpm20@bath.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  	This is the official website of the PLUTo-Project, a BBSRC-funded project 
-	to extract phylogenetic trees and associated metadata directly from the published research literature.
+ This is the official website of The PLUTo-Project, a BBSRC-funded project to extract phylogenetic trees and associated metadata directly from the published research literature.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pluto-project.github.io" # the base hostname & protocol for your site
 twitter_username: rmounce
-github_username:  rossmounce
+github_username: rossmounce
 
 # Build settings
 markdown: kramdown
