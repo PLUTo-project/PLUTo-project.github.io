@@ -4,10 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the official home of the PLUTo-project, a short [BBSRC-funded](http://www.bbsrc.ac.uk/pa/grants/AwardDetails.aspx?FundingReference=BB/K015702/1) investigation into extracting phylogenetic tree data and associated metadata directly from the published literature. 
 
-CHEESE
+Source code for this project is located at: [bitbucket](https://bitbucket.org/petermr/ami-core).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Open Access phylogenetic tree figures, licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/), extracted from the research literature are annotated and deposited in two Flickr repositories:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[PLOS ONE figures](https://www.flickr.com/photos/123621741@N08)
+[All other OA-journal figures](https://www.flickr.com/photos/123636286@N02/)
+
+This project concluded 2015-04-01.
