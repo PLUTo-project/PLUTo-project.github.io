@@ -10,7 +10,7 @@ Source code for this project is located at: [bitbucket](https://bitbucket.org/pe
 
 Open Access phylogenetic tree figures, licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/), extracted from the research literature are annotated and deposited in two Flickr repositories:
 
-[PLOS ONE figures](https://www.flickr.com/photos/123621741@N08)
-[All other OA-journal figures](https://www.flickr.com/photos/123636286@N02/)
+* [PLOS ONE figures](https://www.flickr.com/photos/123621741@N08)
+* [All other OA-journal figures](https://www.flickr.com/photos/123636286@N02/)
 
 This project concluded 2015-04-01.
