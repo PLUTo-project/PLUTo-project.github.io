@@ -10,3 +10,4 @@ github_username: rossmounce
 
 # Build settings
 markdown: kramdown
+gems: [oembed]

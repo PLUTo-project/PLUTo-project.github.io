@@ -6,7 +6,7 @@ permalink: /about/
 
 This is the official home of The PLUTo-Project, a short [BBSRC-funded](http://www.bbsrc.ac.uk/pa/grants/AwardDetails.aspx?FundingReference=BB/K015702/1) investigation into extracting phylogenetic tree data and associated metadata directly from the published literature. 
 
-Source code for this project is located at: [bitbucket](https://bitbucket.org/petermr/ami-core).
+Source code for the software tools behind this project are located at: [bitbucket](https://bitbucket.org/petermr/ami-core).
 
 Open Access phylogenetic tree figures, licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/4.0/), extracted from the research literature are annotated and deposited in two Flickr repositories:
 
