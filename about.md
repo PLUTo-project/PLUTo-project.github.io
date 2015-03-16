@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the official home of the PLUTo-project, a short [BBSRC-funded](http://www.bbsrc.ac.uk/pa/grants/AwardDetails.aspx?FundingReference=BB/K015702/1) investigation into extracting phylogenetic tree data and associated metadata directly from the published literature. 
+This is the official home of The PLUTo-Project, a short [BBSRC-funded](http://www.bbsrc.ac.uk/pa/grants/AwardDetails.aspx?FundingReference=BB/K015702/1) investigation into extracting phylogenetic tree data and associated metadata directly from the published literature. 
 
 Source code for this project is located at: [bitbucket](https://bitbucket.org/petermr/ami-core).
 
